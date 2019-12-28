@@ -1,1 +1,1 @@
-Ini semua ada di satu projek
+Ini semua ada di satu package
